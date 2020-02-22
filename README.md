@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+#Introduction
 
-You can use the [editor on GitHub](https://github.com/sachinshrmaa/Credit-Card-Fraud-Analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In today’s world, we are on the express train to a cashless society. It’s expected that in future years there will be a steady growth of non-cash transactions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now, while this might be exciting, but on the flip-side fraudulent transactions are on the rise as well. Even with EMV smart chips being implemented, we still have a very high amount of money lost from credit card fraud.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sachinshrmaa/Credit-Card-Fraud-Analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+What can we do to reduce the risk? While there are a lot of methods to limit the loss and prevent fraud, and we’ll walk you through our process and show you our findings. To solve this problem, we’re creating a “Credit Card Fraud Analysis Model using Machine Learning”. The datasets we’ll be using will be gathered from a kaggle dataset which contains 285,000 rows of data and 31 columns.
