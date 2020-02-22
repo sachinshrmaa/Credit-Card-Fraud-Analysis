@@ -1,4 +1,4 @@
-#Introduction
+Introduction
 
 In today’s world, we are on the express train to a cashless society. It’s expected that in future years there will be a steady growth of non-cash transactions.
 
